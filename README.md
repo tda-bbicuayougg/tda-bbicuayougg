@@ -1,53 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=250&section=header&text=Anh%20Duc&fontColor=00ff66&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00ff66&text=Anh%20Duc&fontColor=00ff66&fontSize=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&color=00FF66&center=true&vCenter=true&width=950&lines=Hello,+I'm+Anh+Duc;Software+Developer;Reverse+Engineering;Deobfuscation;Security+Research;Minecraft+Mod+Development;Python+%7C+C%2B%2B+%7C+Java;HTML+%7C+CSS+%7C+JavaScript;Discord:+bbicuayougg;Welcome+to+my+GitHub."/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=950&lines=Hello,+I'm+Anh+Duc.;Software+Developer.;Reverse+Engineering.;Deobfuscation.;Binary+Analysis.;Security+Research.;Minecraft+Mod+Development.;Java+|+Python+|+C+++.;Discord:+bbicuayougg.;Welcome+to+my+GitHub."/>
 
 </div>
 
 ---
 
-# root@github:~$
+<div align="center">
 
-```bash
-whoami
+# 🟢 fsociety@github
 
-Anh Duc
+</div>
 
-occupation
-
-Software Developer
-
-focus
-
-- Reverse Engineering
-- Deobfuscation
-- Binary Analysis
-- JVM Internals
-- Security Research
-
-currently_learning
-
-- LLVM
-- JVM Bytecode
-- Fabric API
-- Native Programming
-
-editor
-
-IntelliJ IDEA
-VS Code
-
-os
-
-Windows 11
-Arch Linux
+```console
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ ● ● ●                                              fsociety@github           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ $ whoami                                                                     │
+│                                                                              │
+│ Anh Duc                                                                      │
+│ Software Developer                                                           │
+│                                                                              │
+│ $ cat about.md                                                               │
+│                                                                              │
+│ Curious developer passionate about understanding software from the inside    │
+│ out. I enjoy exploring binaries, studying execution flow, improving code,    │
+│ and learning how complex systems are built and maintained.                   │
+│                                                                              │
+│ My goal is to continuously improve my engineering skills through             │
+│ experimentation, open-source projects, and technical research.               │
+│                                                                              │
+│ $ cat interests.txt                                                          │
+│                                                                              │
+│ • Reverse Engineering                                                        │
+│ • Deobfuscation                                                              │
+│ • Binary Analysis                                                            │
+│ • JVM Internals                                                              │
+│ • Security Research                                                          │
+│ • Minecraft Mod Development                                                  │
+│ • Open Source                                                                │
+│                                                                              │
+│ $ cat tech-stack.txt                                                         │
+│                                                                              │
+│ Java         ████████████████████                                            │
+│ Python       ██████████████████                                              │
+│ C++          ███████████████                                                 │
+│ HTML         ████████████████████                                            │
+│ CSS          ████████████████████                                            │
+│ JavaScript   █████████████████                                               │
+│ Git          ███████████████████                                             │
+│ Linux        ███████████████                                                 │
+│                                                                              │
+│ $ cat currently-learning.txt                                                 │
+│                                                                              │
+│ • JVM Bytecode                                                               │
+│ • Binary Inspection                                                          │
+│ • Software Architecture                                                      │
+│ • Modern Java                                                                │
+│ • Fabric API                                                                 │
+│                                                                              │
+│ $ cat social.txt                                                             │
+│                                                                              │
+│ Discord   : bbicuayougg                                                      │
+│ Facebook  : YOUR_FACEBOOK                                                    │
+│ LeetCode  : YOUR_LEETCODE                                                    │
+│ GitHub    : YOUR_GITHUB                                                      │
+│                                                                              │
+│ $ cat philosophy.txt                                                         │
+│                                                                              │
+│ "Understanding how systems work internally is the foundation                 │
+│  for building reliable software."                                            │
+│                                                                              │
+│ $ status                                                                     │
+│                                                                              │
+│ 🟢 ONLINE                                                                    │
+│ Currently building projects...                                               │
+│                                                                              │
+│ fsociety@github:~$ █                                                         │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# Tech Stack
+# ⚙ Tech Stack
 
 <p align="center">
 
@@ -57,7 +98,7 @@ Arch Linux
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -69,7 +110,7 @@ Arch Linux
 
 ---
 
-# GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -79,117 +120,56 @@ Arch Linux
 
 ---
 
-# Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&color=00ff66&line=00ff66&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&theme=react-dark"/>
 
 </p>
 
 ---
 
-# Trophy
+# 🏆 Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&column=7"/>
 
 </p>
 
 ---
 
-# Visitor Count
+# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff66&style=flat-square"/>
-
-</p>
+```text
+(Thêm GitHub Action để tạo snake animation nếu muốn.)
+```
 
 ---
 
-# Contact
+# 📫 Contact
 
 <p align="center">
 
 <a href="https://discord.com/users/">
 <img src="https://img.shields.io/badge/Discord-bbicuayougg-5865F2?style=for-the-badge&logo=discord"/>
-
 </a>
 
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-<a href="https://facebook.com/">
-
+<a href="https://facebook.com/YOUR_FACEBOOK">
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
 
+<a href="https://leetcode.com/YOUR_LEETCODE/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
 ---
 
-# Current Interests
+<div align="center">
 
-```text
-.
-├── Reverse Engineering
-├── Deobfuscation
-├── Binary Analysis
-├── Security Research
-├── JVM Internals
-├── Minecraft Modding
-├── Java Development
-└── Open Source
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff66,100:000000"/>
 
----
-
-# Terminal
-
-```bash
-root@github:~$ ls
-
-projects
-research
-writeups
-tools
-experiments
-
-root@github:~$ pwd
-
-/home/anhduc
-
-root@github:~$ cat skills.txt
-
-Java
-Python
-C++
-JavaScript
-HTML
-CSS
-
-root@github:~$ cat interests.txt
-
-Reverse Engineering
-Deobfuscation
-Security Research
-Open Source
-
-root@github:~$ echo "Thanks for visiting."
-
-Thanks for visiting.
-```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:000000&height=120&section=footer"/>
-
-</p>
+</div>
