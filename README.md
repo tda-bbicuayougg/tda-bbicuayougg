@@ -38,7 +38,7 @@
 <span style="color:#E91E63">Location</span>   : Ha Noi, Vietnam
 <span style="color:#E91E63">Discord</span>    : bbicuayougg
 
-<span style="color:#FF5F56">●</span><span style="color:#FFBD2E">●</span><span style="color:#27C93F">●</span> 🟥🟧🟨🟩🟦🟪⬛⬜
+<span style="color:#FF5F56">●</span><span style="color:#FFBD2E">●</span><span style="color:#27C93F">●</span> 
       </pre>
     </td>
   </tr>
