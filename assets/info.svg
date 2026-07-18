@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="520" height="310" viewBox="0 0 520 310" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="520" height="310" viewBox="0 0 520 310" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <style>
-      .bg { fill: #0d1117; }
-      .border { fill: none; stroke: #30363d; stroke-width: 2; }
-      .header { font-family: Consolas, 'JetBrains Mono', monospace; font-size: 22px; font-weight: bold; }
-      .text { font-family: Consolas, 'JetBrains Mono', monospace; font-size: 16px; }
-    </style>
-  </defs>
+  <rect width="520" height="310" rx="12" fill="#0d1117"/>
 
-  <!-- Background -->
-  <rect width="520" height="310" rx="12" class="bg"/>
+  <rect x="10" y="10" width="500" height="290" rx="10" fill="none" stroke="#30363d" stroke-width="3"/>
 
-  <!-- Border -->
-  <rect x="10" y="10" width="500" height="290" rx="8" class="border"/>
-
-  <!-- Header -->
-  <text x="30" y="45" fill="#f0f6fc" class="header">
-    <tspan fill="#3fb950">bbicuayou</tspan><tspan>@</tspan><tspan fill="#58a6ff">github</tspan>
+  <text x="30" y="45" fill="#f0f6fc" font-family="Consolas, monospace" font-size="23" font-weight="bold">
+    <tspan fill="#3fb950">bbicuayou</tspan><tspan>@github</tspan>
   </text>
 
-  <!-- Typing content -->
-  <text x="30" y="80" fill="#3fb950" class="text">Name     : Tran Duc Anh</text>
-  <text x="30" y="105" fill="#f0f6fc" class="text">Alias    : bbicuayou</text>
-  <text x="30" y="130" fill="#f0f6fc" class="text">Bio      : Passionate about exploring systems,</text>
-  <text x="30" y="155" fill="#f0f6fc" class="text">           always curious about how software</text>
-  <text x="30" y="180" fill="#f0f6fc" class="text">           really works beneath the surface.</text>
-  <text x="30" y="205" fill="#f0f6fc" class="text">Languages: Python, C++, Java, HTML/CSS/JS</text>
-  <text x="30" y="230" fill="#f0f6fc" class="text">Interests: Malware Research, Reverse Engineering</text>
-  <text x="30" y="255" fill="#f0f6fc" class="text">Location : Ha Noi, Vietnam</text>
-  <text x="30" y="280" fill="#f0f6fc" class="text">Discord  : bbicuayougg</text>
+  <line x1="25" y1="60" x2="490" y2="60" stroke="#30363d" stroke-width="1"/>
+
+  <text x="30" y="85" fill="#3fb950" font-family="Consolas, monospace" font-size="16">Name      : Tran Duc Anh</text>
+  <text x="30" y="110" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Alias     : bbicuayou</text>
+  <text x="30" y="135" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Bio       : Passionate about exploring systems,</text>
+  <text x="30" y="160" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">            always curious about how software really works beneath the surface.</text>
+  <text x="30" y="190" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Languages : Python, C++, Java, HTML/CSS/JS</text>
+  <text x="30" y="215" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Interests : Malware Research, Reverse Engineering</text>
+  <text x="30" y="240" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Location  : Ha Noi, Vietnam</text>
+  <text x="30" y="265" fill="#f0f6fc" font-family="Consolas, monospace" font-size="16">Discord   : bbicuayougg</text>
 
 </svg>
