@@ -21,7 +21,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠀
       </pre>
     </td>
-    <td width="60%" valign="top">
+    <td width="80%" valign="top">
       <pre>
 
 
