@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="320"
+     viewBox="0 0 700 320">
+
+    <rect
+        x="0"
+        y="0"
+        width="700"
+        height="320"
+        rx="12"
+        fill="#161b22"/>
+
+    <rect
+        x="1"
+        y="1"
+        width="698"
+        height="318"
+        rx="12"
+        fill="none"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+</svg>
