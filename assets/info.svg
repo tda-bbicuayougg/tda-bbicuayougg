@@ -1,121 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="760"
-    height="340"
-    viewBox="0 0 760 340">
+<svg width="520" height="300" viewBox="0 0 520 300" xmlns="http://www.w3.org/2000/svg">
 
-<defs>
+  <!-- Background -->
+  <rect width="520" height="300" rx="12" fill="#0d1117"/>
 
-    <style><![CDATA[
-        .bg{
-            fill:#0d1117;
-        }
+  <!-- Border -->
+  <rect x="8" y="8" width="504" height="284" rx="10" fill="none" stroke="#30363d" stroke-width="2"/>
 
-        .border{
-            fill:none;
-            stroke:#30363d;
-            stroke-width:2;
-            stroke-linecap:round;
-            stroke-linejoin:round;
-        }
+  <!-- Header -->
+  <text x="25" y="38" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="22" font-weight="bold">
+    <tspan fill="#3fb950">bbicuayou</tspan><tspan fill="#f0f6fc">@</tspan><tspan fill="#58a6ff">github</tspan>
+  </text>
 
-        .header{
-            fill:#f0f6fc;
-            font-family:Consolas,'JetBrains Mono',monospace;
-            font-size:22px;
-            font-weight:bold;
-        }
+  <!-- Traffic lights -->
+  <circle cx="470" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="490" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="510" cy="22" r="6" fill="#27c93f"/>
 
-        .body{
-            fill:#f0f6fc;
-            font-family:Consolas,'JetBrains Mono',monospace;
-            font-size:18px;
-            white-space:pre;
-        }
+  <!-- Typing lines -->
+  <text x="25" y="75" fill="#3fb950" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line1">Name: Tran Duc Anh</text>
+  <text x="25" y="100" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line2">Alias: bbicuayou</text>
+  <text x="25" y="125" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line3">Bio: Passionate about exploring systems,</text>
+  <text x="25" y="150" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line4">always curious about how software really works beneath the surface.</text>
+  <text x="25" y="175" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line5">Languages: Python, C++, Java, HTML/CSS/JS</text>
+  <text x="25" y="200" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line6">Interests: Malware Research, Reverse Engineering</text>
+  <text x="25" y="225" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line7">Location: Ha Noi, Vietnam</text>
+  <text x="25" y="250" fill="#f0f6fc" font-family="Consolas, JetBrains Mono, monospace" font-size="17" id="line8">Discord: bbicuayougg</text>
 
-        .green{
-            fill:#3fb950;
-        }
-
-        .blue{
-            fill:#58a6ff;
-        }
-
-        .pink{
-            fill:#ff7b72;
-        }
-
-    ]]></style>
-
-    <!-- border animation -->
-
-    <rect
-        id="borderRect"
-        x="8"
-        y="8"
-        width="744"
-        height="324"
-        rx="12"/>
-
-</defs>
-
-<!-- background -->
-
-<rect
-    class="bg"
-    width="760"
-    height="340"
-    rx="12"/>
-
-<!-- animated border -->
-
-<use
-    href="#borderRect"
-    class="border"
-    pathLength="100"
-    stroke-dasharray="100"
-    stroke-dashoffset="100">
-
-    <animate
-        attributeName="stroke-dashoffset"
-        from="100"
-        to="0"
-        dur="1.4s"
-        fill="freeze"/>
-
-</use>
-
-<!-- title -->
-
-<text
-    x="26"
-    y="40"
-    class="header">
-
-<tspan class="green">bbicuayou</tspan>
-<tspan>@</tspan>
-<tspan class="blue">github</tspan>
-
-</text>
-
-<!-- divider -->
-
-<line
-    x1="22"
-    y1="58"
-    x2="738"
-    y2="58"
-    stroke="#30363d"
-    stroke-width="1"/>
-
-<!-- traffic lights -->
-
-<circle cx="706" cy="35" r="5" fill="#ff5f56"/>
-<circle cx="722" cy="35" r="5" fill="#ffbd2e"/>
-<circle cx="738" cy="35" r="5" fill="#27c93f"/>
-
-<!-- typing area -->
-
-<g id="typing">
+</svg>
